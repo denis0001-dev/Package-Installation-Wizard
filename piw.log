@@ -1,0 +1,12 @@
+[2025.03.04 19:29:22] [JavaFX Application Thread/INFO]: Starting application
+[2025.03.04 19:29:23] [JavaFX Application Thread/INFO]: Checking for required utilities
+[2025.03.04 19:29:23] [JavaFX Application Thread/DEBUG]: Checking for apt
+[2025.03.04 19:29:23] [JavaFX Application Thread/DEBUG]: Apt exists!
+[2025.03.04 19:29:23] [JavaFX Application Thread/DEBUG]: Checking the required apt packages
+[2025.03.04 19:29:23] [JavaFX Application Thread/DEBUG]: Checking for apt-cache, actual package name apt-cache
+[2025.03.04 19:29:23] [JavaFX Application Thread/DEBUG]: Checking for apt-rdepends, actual package name apt-rdepends
+[2025.03.04 19:29:23] [JavaFX Application Thread/DEBUG]: Checking for grep-available, actual package name dctrl-tools
+[2025.03.04 19:29:23] [JavaFX Application Thread/DEBUG]: Checking for grep-status, actual package name dctrl-tools
+[2025.03.04 19:29:23] [JavaFX Application Thread/WARN]: Missing utilities: apt-rdepends, grep-available, grep-status
+[2025.03.04 19:29:25] [JavaFX Application Thread/FATAL]: Cannot start the application. Required utilities are not installed. The application cannot continue.
+[2025.03.04 19:29:27] [main/INFO]: Exiting
